@@ -10,7 +10,6 @@ Contributing
 License
 Acknowledgments
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Introduction
 Managing attendance in organizations, schools, and events can be a time-consuming task. The Face Recognition Attendance System automates this process by utilizing facial recognition algorithms to accurately identify and record attendance of individuals. This system eliminates the need for manual sign-ins and enhances efficiency.
 
@@ -35,9 +34,6 @@ The Face Recognition Attendance System uses pre-trained deep learning models to 
 
 Contributing
 Contributions are welcome! If you find any issues or would like to enhance the system, feel free to open a pull request. Please ensure that you follow the code of conduct and the contribution guidelines.
-
-License
-This project is licensed under the MIT License.
 
 Acknowledgements
 The face recognition functionality is powered by the face_recognition library.
